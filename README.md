@@ -1,0 +1,2 @@
+# ghost-game
+amazing game
